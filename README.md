@@ -5,13 +5,6 @@ Name: Nikhil Sai Ramini<br/>
 💼 Experience: Data Science Intern at Alpha Recon | IOT- Development, Programming, and Deployment/ Graduate Assistant | Technical Support/ Graduate Assistant<br/> 
 📍 Location: Open to opportunities across the USA (Remote, Hybrid, Onsite)<br/> 
 
-💻 Technical Skills<br/>
-Languages: Python, Java, C, C++, SQL, JavaScript, R<br/> 
-Technologies: Apache Spark, DBT, AWS, Docker, Kubernetes<br/> 
-IoT & Networking: LoRaWAN, IPv4, IPv6, SDN, Infoblox, DHCP, DNS<br/> 
-Machine Learning & AI: TensorFlow, Scikit-learn, Responsible AI, Prompt Engineering<br/> 
-Tools: Git, Tableau, PowerShell<br/> 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_01nikhil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-sai-ramini-408152213) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nikhil_ramini) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramini.nikhilsai@gmail.com) 
 
